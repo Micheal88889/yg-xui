@@ -5,7 +5,7 @@
 ### 纯IPV4/纯IPV6的VPS直接运行一键脚本
 
 ```
-wget -N https://raw.githubusercontent.com/Micheal88889/yg-xui/raw/main/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/Micheal88889/yg-xui/main/install.sh && bash install.sh
 ```
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
